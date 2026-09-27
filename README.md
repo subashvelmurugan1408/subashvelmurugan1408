@@ -54,9 +54,8 @@ B.E. Computer Science student at **RVS   institute of technology, Coimbatore (20
 - **Approach:** Documents are embedded with Sentence Transformers and stored in a vector DB. The most relevant chunks are retrieved and passed to Qwen 2.5 7B (Hugging Face Inference API) to ground the answer.
 - **Result:** Next.js UI and Flask API shipped as a **single Docker container** on Render, with keys kept in environment variables.
 - **Stack:** Next.js · Flask · Docker · Hugging Face · vector search
-
 <p>
-<img width="1703" height="810" alt="rag-chatbot" src="https://github.com/user-attachments/assets/98014e18-c43c-4a38-9397-b2abfc548ac4" />
+<img width="1917" height="848" alt="skin-cancer-detector" src="https://github.com/user-attachments/assets/15309de2-4f68-4a5a-90b6-1c4b5afd5da4" />
 
 </p>
 
