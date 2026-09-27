@@ -72,7 +72,7 @@ B.E. Computer Science student at **RVS   institute of technology, Coimbatore (20
 - **Stack:** TensorFlow/Keras · OpenCV · Streamlit
 
 <p>
-<img width="1917" height="848" alt="skin-cancer-detector" src="https://github.com/user-attachments/assets/15309de2-4f68-4a5a-90b6-1c4b5afd5da4" />
+<img width="1916" height="797" alt="Skin-cancer-detection" src="https://github.com/user-attachments/assets/b46e3254-ebf8-4455-8e7c-f3330bed6863" />
 
 </p>
 
@@ -95,7 +95,7 @@ B.E. Computer Science student at **RVS   institute of technology, Coimbatore (20
 - **Stack:** Next.js 14 · TypeScript · Groq · Web Speech API
 
 <p>
-<img width="1916" height="797" alt="tts-studybot" src="https://github.com/user-attachments/assets/b46e3254-ebf8-4455-8e7c-f3330bed6863" />
+<img width="1703" height="810" alt="Elisa_study _chastbot" src="https://github.com/user-attachments/assets/976a6a7e-0a31-497a-943f-d666a3738835" />
 
 </p>
 
@@ -184,12 +184,12 @@ Responsive storefront layout for electronics, groceries, and vegetables.
 
 ## 📫 Contact
 
-- 🌐 [subash-codes-ai.lovable.app](https://subash-codes-ai.lovable.app)
+- 🌐 [Portfolio](https://subash-codes-ai.lovable.app)
 - 💼 [LinkedIn](https://linkedin.com/in/subash-v-1557a832b)
 - 📧 subashvelmurugan8@gmail.com
 
 ## 💬 Let's Build Something
 
-Looking for an **ML or software internship**, a hackathon teammate, or a project to collaborate on? Reach out, I'd love to hear about it.
+Looking for an **AIML or software internship**, a hackathon teammate, or a project to collaborate on? Reach out, I'd love to hear about it.
 
 <div align="center">⭐ <i>If a project here helped you, drop a star!</i> ⭐</div>
